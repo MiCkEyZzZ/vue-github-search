@@ -3,8 +3,8 @@
 <br />
 <div align="center">
     <a href="https://www.cluemediator.com/category/reactjs">
-        <img alt="React"
-            src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img alt="Vue"
+            src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue&logoColor=black" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.cluemediator.com/category/php">
