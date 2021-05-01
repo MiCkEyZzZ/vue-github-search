@@ -7,10 +7,6 @@
             src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue&logoColor=black" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.cluemediator.com/category/php">
-        <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://www.cluemediator.com/category/javascript">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
