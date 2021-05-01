@@ -26,8 +26,9 @@
 ## Quickstart
 
 ```bash
-  #npm
+  # npm
   npm install
+  npm run serve
   ```
 
 <br />
