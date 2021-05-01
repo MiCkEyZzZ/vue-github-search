@@ -12,7 +12,7 @@
             src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.cluemediator.com/category/reactjs">
+    <a href="https://vuex.vuejs.org/">
         <img alt="Vuex"
             src="https://img.shields.io/badge/-Vuex-42b883?style=for-the-badge&logo=vue&logoColor=black" />
     </a>
