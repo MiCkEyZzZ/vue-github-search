@@ -29,19 +29,9 @@
             src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/cluemediator">
-        <img alt="Clue Mediator's Twitter" width="30px"
-            src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/cluemediator">
         <img alt="Clue Mediator's Github" width="30px"
             src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.youtube.com/cluemediator">
-        <img alt="Clue Mediator's Telegram" width="30px"
-            src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://t.me/cluemediator">
