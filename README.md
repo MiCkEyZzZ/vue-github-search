@@ -1,5 +1,5 @@
 # vue-github-search
-##Тестовое задание. Поиск пользователей GitHub API
+## Тестовое задание. Поиск пользователей GitHub API
 <br />
 <div align="center">
     <a href="https://vuejs.org/">
