@@ -25,6 +25,11 @@
 
 ## Quickstart
 
+```bash
+  # npm
+  npm install
+  ```
+
 <br />
 
 <div>
