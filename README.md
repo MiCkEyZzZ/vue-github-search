@@ -17,11 +17,6 @@
             src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.cluemediator.com/category/next-js">
-        <img alt="Next.js"
-            src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://www.cluemediator.com/category/git">
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </a>
