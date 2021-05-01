@@ -23,7 +23,7 @@
 
 <br />
 
-## Quickstart
+## Для начала 
 
 ```bash
   # npm
