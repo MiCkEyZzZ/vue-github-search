@@ -12,9 +12,9 @@
             src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.cluemediator.com/category/node-js">
-        <img alt="Node.js"
-            src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <a href="https://www.cluemediator.com/category/reactjs">
+        <img alt="Vuex"
+            src="https://img.shields.io/badge/-Vuex-42b883?style=for-the-badge&logo=vue&logoColor=black" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.cluemediator.com/category/git">
