@@ -1,4 +1,3 @@
-# vue-github-search
 ## Тестовое задание. Поиск пользователей GitHub API
 <br />
 <div align="center">
