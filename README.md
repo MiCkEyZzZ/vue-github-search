@@ -26,7 +26,7 @@
 ## Quickstart
 
 ```bash
-  # npm
+  #npm
   npm install
   ```
 
