@@ -6,7 +6,7 @@ Vue, Vuex, Axios
 [![npm version](https://img.shields.io/badge/npm-%5E0.21.1-orange)](https://www.npmjs.org/package/axios)
 <br />
 
-## Для быстрого старта
+**Run locally with:**
 
 ```bash
   # npm
