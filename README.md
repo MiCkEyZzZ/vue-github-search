@@ -9,7 +9,8 @@ Vue, Vuex, Axios
 **Run locally with:**
 
 ```bash
-  https://github.com/MiCkEyZzZ/vue-github-search.git
+  git clone https://github.com/MiCkEyZzZ/vue-github-search.git
+  cd vue-github-search
   npm install
   npm run serve
   ```
