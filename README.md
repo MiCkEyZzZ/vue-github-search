@@ -1,4 +1,4 @@
-## Тестовое задание. Поиск пользователей GitHub API
+## Search for GitHub API users
 Vue, Vuex, Axios
 
 [![beta](https://img.shields.io/badge/npm-%5E3.0.11-blue)](https://www.npmjs.com/package/vue/v/next)
